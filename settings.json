@@ -1,0 +1,6 @@
+{
+    "speech_rate": 175,
+    "volume": 100,
+    "weather_api_key": "#yourkey",
+    "news_api_key": "#yourkey"
+}
